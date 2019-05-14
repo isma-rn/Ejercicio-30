@@ -1,0 +1,7 @@
+C:\Users\Yesica Moreno\source\repos\E30_CorvertirUltimaLetraMayus\E30_CorvertirUltimaLetraMayus\bin\Debug\E30_CorvertirUltimaLetraMayus.exe.config
+C:\Users\Yesica Moreno\source\repos\E30_CorvertirUltimaLetraMayus\E30_CorvertirUltimaLetraMayus\bin\Debug\E30_CorvertirUltimaLetraMayus.exe
+C:\Users\Yesica Moreno\source\repos\E30_CorvertirUltimaLetraMayus\E30_CorvertirUltimaLetraMayus\bin\Debug\E30_CorvertirUltimaLetraMayus.pdb
+C:\Users\Yesica Moreno\source\repos\E30_CorvertirUltimaLetraMayus\E30_CorvertirUltimaLetraMayus\obj\Debug\E30_CorvertirUltimaLetraMayus.csprojAssemblyReference.cache
+C:\Users\Yesica Moreno\source\repos\E30_CorvertirUltimaLetraMayus\E30_CorvertirUltimaLetraMayus\obj\Debug\E30_CorvertirUltimaLetraMayus.csproj.CoreCompileInputs.cache
+C:\Users\Yesica Moreno\source\repos\E30_CorvertirUltimaLetraMayus\E30_CorvertirUltimaLetraMayus\obj\Debug\E30_CorvertirUltimaLetraMayus.exe
+C:\Users\Yesica Moreno\source\repos\E30_CorvertirUltimaLetraMayus\E30_CorvertirUltimaLetraMayus\obj\Debug\E30_CorvertirUltimaLetraMayus.pdb
